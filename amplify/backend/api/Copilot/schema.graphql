@@ -1,0 +1,8 @@
+type Biker @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  bikerId: String!
+  name: String
+  profilePicture: AWSURL
+  profile: String
+}
+ 

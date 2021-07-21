@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Biker Copilot</string>
+    <string name="google" translatable="false">Google</string>
+    <string name="facebook" translatable="false">Facebook</string>
+
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_label">Sign in</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="or_using">Or using</string>
+    <string name="create_account">Create account</string>
+    <string name="username">Username</string>
+    <string name="password_confirmation">Password confirmation</string>
+    <string name="back">Back</string>
+    <string name="required_field">Required field</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="invalid_password_length">Must be at least 8 characters long</string>
+    <string name="missing_letters">Must contain an uppercase and lowercase letters</string>
+    <string name="missing_numbers">Must contain a digit at least</string>
+    <string name="missing_special_chars">Must contain a special character -+_!@#\$%^&amp;*?</string>
+    <string name="passwords_dont_match">Passwords don\'t match</string>
+    <string name="password_contains_spaces">Must not contains empty spaces</string>
+    <string name="no_account">No account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="code_verification_directions">We send you an email to the address %s with the verification code so you can locate it instantly. Please enter here the code to verify your account.</string>
+    <string name="verify">Verify</string>
+    <string name="resend_verification_code">Resend code</string>
+</resources>

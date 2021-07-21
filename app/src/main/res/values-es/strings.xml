@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Biker Copilot</string>
+    <string name="sign_in">Acceder</string>
+    <string name="sign_in_label">Acceder</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Correo electrónico</string>
+    <string name="or_using">O accede usando</string>
+    <string name="create_account">Crear cuenta</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password_confirmation">Confirmar contraseña</string>
+    <string name="back">Atrás</string>
+    <string name="required_field">Campo requerido</string>
+    <string name="invalid_email">Correo electrónico invalido</string>
+    <string name="invalid_password_length">Debe contener al menos 8 caracteres</string>
+    <string name="missing_letters">Debe contener letras mayusculas y minuculas</string>
+    <string name="missing_numbers">Debe contener al menos un número</string>
+    <string name="missing_special_chars">Debe contener al menos un caracter especial -+_!@#\$%^&amp;*?</string>
+    <string name="passwords_dont_match">Las contraseñas no coinciden</string>
+    <string name="password_contains_spaces">No debe contener espacios</string>
+    <string name="no_account">¿No tienes cuenta?</string>
+    <string name="sign_up">Regístrate</string>
+    <string name="code_verification_directions">Te enviamos un correo electrónico a la dirección %s con el código de verificación para que puedas localizarlo al instante. Introduce aquí el código para verificar tu cuenta.</string>
+    <string name="verify">Verificar</string>
+    <string name="resend_verification_code">Reenviar código</string>
+</resources>

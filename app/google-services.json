@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664705310515",
+    "project_id": "biker-copilot-e808b",
+    "storage_bucket": "biker-copilot-e808b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664705310515:android:187df7ba1962de44f6e846",
+        "android_client_info": {
+          "package_name": "com.app.bikercopilot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664705310515-gk3cekkh35aeut15l4upd9hi9g3ado6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCQRju9ErvnfyIO79wu4QwZSVJ9YAdPSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664705310515-gk3cekkh35aeut15l4upd9hi9g3ado6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

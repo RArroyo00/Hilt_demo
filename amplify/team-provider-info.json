@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-copilot-dev-161944-authRole",
+      "UnauthRoleArn": "arn:aws:iam::400656541751:role/amplify-copilot-dev-161944-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::400656541751:role/amplify-copilot-dev-161944-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-copilot-dev-161944-deployment",
+      "UnauthRoleName": "amplify-copilot-dev-161944-unauthRole",
+      "StackName": "amplify-copilot-dev-161944",
+      "StackId": "arn:aws:cloudformation:us-east-2:400656541751:stack/amplify-copilot-dev-161944/190cd640-be68-11eb-97fe-0281aed4af26",
+      "AmplifyAppId": "d28y8v6oki0poi"
+    },
+    "categories": {
+      "auth": {
+        "copilotde9090a0": {}
+      }
+    }
+  }
+}
